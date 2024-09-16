@@ -1,0 +1,73 @@
+
+"status": 200,
+"data": {
+  "br": {
+    "hash": "e37f151063c16d8916935888065ece0abd6e5d0c",
+    "date": "2024-09-16T16:00:02Z",
+    "image": "https://cdn.fortnite-api.com/news/v2/e37f151063c16d8916935888065ece0abd6e5d0c.gif",
+    "motds": [
+      {
+        "id": "685c2723-5fc5-48c0-b4c1-d705d2bdee1b",
+        "title": "Day of Doom - September 17",
+        "tabTitle": "Day of Doom - September 17",
+        "body": "The fight between good and evil is coming! Jump into Day of Doom, a limited-time mode, and compete in a 16v16 battle between Doom's Henchman and the allies of the Avengers beginning September 17.",
+        "image": "https://cdn-live.prm.ol.epicgames.com/prod/bb685a11fa660023411b24c9aec0cbf936ac87671981fe6dbe6611b22870f673aaba333b49e1a1e1e7f247a91e57c3da-5620e052-14b2-43e2-90cb-8aad80359521.jpeg?width=1920&height=1080&aspect=fill",
+        "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/bb685a11fa660023411b24c9aec0cbf936ac87671981fe6dbe6611b22870f6738c529e1ed026b26aa79201e07acde109-4f5da482-5b58-4cc1-953c-373860abba41.jpeg?width=720&height=400&aspect=fill",
+        "sortingPriority": 100,
+        "hidden": false
+      },
+      {
+        "id": "3c8b376d-65b5-43ee-ac25-a5715d864602",
+        "title": "Deadpool & Wolverine",
+        "tabTitle": "Deadpool & Wolverine",
+        "body": "Deadpool and Wolverine together? You know him as The Merc with a Mouth, but what about the Merc with…a \"friend.\"",
+        "image": "https://cdn-live.prm.ol.epicgames.com/prod/0f3bdbf35eb130953bb3eb3ca13cb20f78b9535427fb22f42af6d625ba22ecd228d1c774a248d01bb52f6a76b557778060475c4bb9c52a7c4aca48244eaf44d5-ecd88f5e-5aa0-4380-8418-28fb50717633.jpeg?width=1920&height=1080&aspect=fill",
+        "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/0f3bdbf35eb130953bb3eb3ca13cb20f78b9535427fb22f42af6d625ba22ecd295efa35299cc64dd641847227b4a6e23ebb24b8f787d3721db81dfe13fa05093-026f7516-cf59-4380-b11c-0826a607de2f.jpeg?width=720&height=400&aspect=fill",
+        "sortingPriority": 90,
+        "hidden": false
+      },
+      {
+        "id": "6a9881a9-4ae0-4cdb-9d37-cf5ead704d2c",
+        "title": "Download the Fortnite Mobile App",
+        "tabTitle": "Download the Fortnite Mobile App",
+        "body": "Play your favorite Fortnite Islands on the go! Download the Fortnite mobile app via the new Epic Games Store on Android today. Get started at fn.gg/mobile.",
+        "image": "https://cdn-live.prm.ol.epicgames.com/prod/1750f6b4cbc031a69c0f1334b029f1f02f9f7b6cec6cfd4f6a6e36b82555dfee7f4a70e6d32752204849790e01d424fdf2615c615eb9a69b46d83d23e57d29d4-a7c63414-ce62-4713-ad8f-f8db7b2243b7.jpeg?width=1920&height=1080&aspect=fill",
+        "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/1750f6b4cbc031a69c0f1334b029f1f02f9f7b6cec6cfd4f6a6e36b82555dfee66c3aedc9fbc3d7202b0e92de8fa0197bd076276d937b1f85bf803e323011290-312867c7-7db0-4c3e-8740-929ed90008db.jpeg?width=720&height=400&aspect=fill",
+        "sortingPriority": 80,
+        "hidden": false
+      },
+      {
+        "id": "eaa261f5-a2fd-4633-baa3-bdbfb6fa4dd1",
+        "title": "Champion Sparkplug",
+        "tabTitle": "Champion Sparkplug",
+        "body": "Scrap your way to the top.",
+        "image": "https://cdn-live.prm.ol.epicgames.com/prod/16239b970e130deac0970bc1e7cf620e51bf7d6f180fe77067af56a2e933fc24ddf37b0076c767907a890b0345891066-e2a061b6-04d4-42be-80a3-bad7d0af843d.jpeg?width=1920&height=1080&aspect=fill",
+        "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/16239b970e130deac0970bc1e7cf620ed7e555b50e3a44f7a5cfcd1689eb1d0829355d5d3de2968d0c4d4031c7405f19-4ef8ea54-33cc-420c-8915-195214a7a7e5.jpeg?width=720&height=400&aspect=fill",
+        "sortingPriority": 70,
+        "hidden": false
+      },
+      {
+        "id": "d3ffbb4b-4a21-4619-bde2-0ee6215b9bae",
+        "title": "Play Fortnite on the go",
+        "tabTitle": "Play Fortnite on the go",
+        "body": "Never miss a beat with Fortnite on mobile! There are many ways to play Fortnite on a mobile device – check out the website to learn more about the best options for you. Learn more at fn.gg/FortniteMobile",
+        "image": "https://cdn-live.prm.ol.epicgames.com/prod/b5f2e36d1076524ad8bdaf138a82790a6995f5282ad400a0666af88f72940c69d3e335f0439362ecb539b2283514657b-940eb688-24b7-49f2-ae1d-19e2988a190f.jpeg?width=1920&height=1080&aspect=fill",
+        "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/b5f2e36d1076524ad8bdaf138a82790ab55bae4ab49b4afb209a2bb566910f73a6542e61881685f9d1983e107c0f6e0d-2738c4fb-7e48-4054-b184-bd8998d3602f.jpeg?width=720&height=400&aspect=fill",
+        "sortingPriority": 60,
+        "hidden": false
+      }
+    ]
+  },
+  "stw": {
+    "hash": "9ebadf7e4f2a579e7700b47aadefaa2f90a0834b",
+    "date": "2024-09-11T06:22:27Z",
+    "messages": [
+      {
+        "title": "Message of the day update",
+        "body": "Commanders, we've moved the Save the World message of the day to appear when you first log into Fortnite!",
+        "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/savetheworldnews/StW05_MOTD-1024x512_AntiScam-1024x512-1371b58ec57f89e3e6a5946f4f5b6ad5620edabe.jpg"
+      }
+    ]
+  }
+}
+}
