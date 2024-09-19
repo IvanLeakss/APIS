@@ -1,532 +1,532 @@
 {
-    "status": 200,
-    "data": {
-      "images": {
-        "blank": "https://fortnite-api.com/images/map.png",
-        "pois": "https://fortnite-api.com/images/map_en.png"
-      },
-      "pois": [
-        {
-          "id": "Athena.Location.UnNamedPOI.TrainStation.02",
-          "name": "Orchard Station",
-          "location": {
-            "x": -70368,
-            "y": -6528,
-            "z": 5220
-          }
-        },
-        {
-          "id": "Athena.Location.POI.NitroDome",
-          "name": "NITRODROME",
-          "location": {
-            "x": -41551.9994571328,
-            "y": -13839.9993061987,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.SocietyCemetery",
-          "name": "The Cemetery",
-          "location": {
-            "x": 57176.0004441828,
-            "y": 33784.0021540197,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.SummitTemple",
-          "name": "Summit Temple",
-          "location": {
-            "x": -30260.000415,
-            "y": 93544.001227,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.FuelDepot",
-          "name": "Megalo Depot",
-          "location": {
-            "x": -104407.999911477,
-            "y": -16304.0002490236,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.CharonsCrossing",
-          "name": "Charon's Crossing",
-          "location": {
-            "x": 17124,
-            "y": -85092,
-            "z": 5220
-          }
-        },
-        {
-          "id": "Athena.Location.POI.AbandonedMansion",
-          "name": "REBEL'S ROOST",
-          "location": {
-            "x": 88364,
-            "y": -59552,
-            "z": 3092
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.SecretLab",
-          "name": "Weapon X Lab",
-          "location": {
-            "x": -3696,
-            "y": 105900,
-            "z": 10864
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.ArchOlympus",
-          "name": "Pantheon Path",
-          "location": {
-            "x": -49516.0002532124,
-            "y": 31772.000607235,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.POI.DoomsCourtyard",
-          "name": "DOOM'S COURTYARD",
-          "location": {
-            "x": 93844.000543,
-            "y": 52464.000694,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.POI.RiverCapital",
-          "name": "RECKLESS RAILWAYS",
-          "location": {
-            "x": 20536,
-            "y": 44096,
-            "z": 112
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.GasStation.02",
-          "name": "Placid Pumps",
-          "location": {
-            "x": 6742.00677099384,
-            "y": 13315.1952988104,
-            "z": 5220
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.MountainRescue",
-          "name": "Rescue Station",
-          "location": {
-            "x": 46375.9998102379,
-            "y": 73168.0020529479,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.POI.Castle",
-          "name": "CASTLE DOOM",
-          "location": {
-            "x": 74508,
-            "y": 87560,
-            "z": 6652
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.IslandMansion",
-          "name": "No Moored Manor",
-          "location": {
-            "x": -84308,
-            "y": 17264,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.NorthTunnel",
-          "name": "Hazy Hillside Tunnel",
-          "location": {
-            "x": -35756,
-            "y": 37492,
-            "z": 5848
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.GasStation.01",
-          "name": "Primo Pumps",
-          "location": {
-            "x": -54804,
-            "y": -51948,
-            "z": 5220
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.ResearchStation",
-          "name": "Research Rock",
-          "location": {
-            "x": -93740,
-            "y": 88344,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.WaterMill",
-          "name": "The Ol' Mill",
-          "location": {
-            "x": 62551.5940120649,
-            "y": 14564.0833244474,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.TrainStation.03",
-          "name": "Grand Station",
-          "location": {
-            "x": 19124,
-            "y": 50668,
-            "z": 5220
-          }
-        },
-        {
-          "id": "Athena.Location.POI.CostalCity",
-          "name": "SANDY STEPPES",
-          "location": {
-            "x": -78214,
-            "y": -70796,
-            "z": 112
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.TrainStation.04",
-          "name": "Latverian Station",
-          "location": {
-            "x": 79376.8325479845,
-            "y": 33710.3259877956,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.CostalAirstrip",
-          "name": "Sandy Strip",
-          "location": {
-            "x": -60280,
-            "y": -107036,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.POI.Megalodon",
-          "name": "BRUTAL BEACHHEAD",
-          "location": {
-            "x": -105459.998877614,
-            "y": -47044.0004216037,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.POI.Stadt",
-          "name": "Doomstadt",
-          "location": {
-            "x": 67144,
-            "y": -14024,
-            "z": 112
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.YardDock",
-          "name": "Lil Dirty Dock",
-          "location": {
-            "x": -119632.00097406,
-            "y": 44559.9994856382,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.POI.AbandonedRuins",
-          "name": "RESTORED REELS",
-          "location": {
-            "x": -1892,
-            "y": -17236,
-            "z": 112
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.GasStation.03",
-          "name": "Piney Pumps",
-          "location": {
-            "x": 57140,
-            "y": -36760,
-            "z": 9428
-          }
-        },
-        {
-          "id": "Athena.Location.POI.NitroTown",
-          "name": "REDLINE RIG",
-          "location": {
-            "x": -103404,
-            "y": 17263.9997190718,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.CostalRuins",
-          "name": "Coastal Columns",
-          "location": {
-            "x": -21156,
-            "y": -105320,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.HeadStatue",
-          "name": "Doom's Watch",
-          "location": {
-            "x": 89876.00187,
-            "y": 52128.0027561908,
-            "z": 6497.34860359003
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.WindMill.01",
-          "name": "The Wreckmill",
-          "location": {
-            "x": -69676,
-            "y": -26968,
-            "z": 5220
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.Oasis.05",
-          "name": "The Dam Bridge",
-          "location": {
-            "x": -63395.998489,
-            "y": -40839.9993118869,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.WindMill.02",
-          "name": "The Other Windmill",
-          "location": {
-            "x": 35128,
-            "y": -38044,
-            "z": 5220
-          }
-        },
-        {
-          "id": "Athena.Location.POI.Greenhouse",
-          "name": "Shipwreck Shallows",
-          "location": {
-            "x": -10000.0000770039,
-            "y": 9788.00014919074,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.WoodedIsle",
-          "name": "Piney Lane",
-          "location": {
-            "x": 114357.662478018,
-            "y": -10051.9955579323,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.Jankyard",
-          "name": "Dumpenhausen",
-          "location": {
-            "x": -12131.9995679961,
-            "y": 62364.0014197748,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.FishFarm",
-          "name": "Catcher's Cove",
-          "location": {
-            "x": 113116.000422257,
-            "y": 39620.0032107296,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.TrainStation.01",
-          "name": "Snooty Station",
-          "location": {
-            "x": -61676,
-            "y": -67180,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.WinterIsland",
-          "name": "Winterburg",
-          "location": {
-            "x": 117724.000422,
-            "y": 18744.003211,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.PeaBoisHQ",
-          "name": "Pea Bois HQ",
-          "location": {
-            "x": -78152,
-            "y": -7844,
-            "z": 5220
-          }
-        },
-        {
-          "id": "Athena.Location.POI.Gate",
-          "name": "GRIM GATE",
-          "location": {
-            "x": 23608,
-            "y": -55336,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.POI.Hades",
-          "name": "THE UNDERWORLD",
-          "location": {
-            "x": 56712,
-            "y": -84900,
-            "z": 112
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.RaceCarFactory",
-          "name": "Ship it! Station",
-          "location": {
-            "x": -28088,
-            "y": -42764,
-            "z": 5220
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.RadioTower",
-          "location": {
-            "x": -80604,
-            "y": -24072,
-            "z": 5220
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.Glacier",
-          "name": "Zenith Wall",
-          "location": {
-            "x": 5154.67331168144,
-            "y": 82110.8795971286,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.POI.MountOlympus",
-          "name": "MOUNT OLYMPUS",
-          "location": {
-            "x": -61820,
-            "y": 69184.0002298948,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.Logo",
-          "name": "Fractured Four",
-          "location": {
-            "x": 49928.00187,
-            "y": -25591.997327,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.POI.Arena",
-          "name": "BRAWLER'S BATTLEGROUND",
-          "location": {
-            "x": -92351.9999646047,
-            "y": 59633.9995562331,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.RadioTower",
-          "name": "Coastal Comms",
-          "location": {
-            "x": 104211.999820746,
-            "y": 74100.0030455516,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.SummitCamp",
-          "name": "Summit Base Camp",
-          "location": {
-            "x": -18320.0002274572,
-            "y": 96240.0012905792,
-            "z": 6888
-          }
-        },
-        {
-          "id": "Athena.Location.POI.Raft",
-          "name": "THE RAFT",
-          "location": {
-            "x": -6890,
-            "y": -75716,
-            "z": 112
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.TrainStation.05",
-          "name": "Estate Station",
-          "location": {
-            "x": 48058.4080622079,
-            "y": -15.6142339404596,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.WindTurbines",
-          "name": "Breezy Coast",
-          "location": {
-            "x": 69343.999853,
-            "y": 119908.002665,
-            "z": 4756
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.AbandonedVilla",
-          "name": "Reclaimed Villa",
-          "location": {
-            "x": -49592,
-            "y": -98936,
-            "z": 2584
-          }
-        },
-        {
-          "id": "Athena.Location.POI.GrandGlacierHotel",
-          "name": "GRAND GLACIER",
-          "location": {
-            "x": 27536,
-            "y": 99132,
-            "z": 112
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.TrainStation.06",
-          "name": "Underworld Station",
-          "location": {
-            "x": 45540,
-            "y": -57416,
-            "z": 5220
-          }
-        },
-        {
-          "id": "Athena.Location.UnNamedPOI.RockMansion",
-          "name": "Cloistered Castle",
-          "location": {
-            "x": 101336.00094162,
-            "y": 8788.00302417996,
-            "z": 4756
-          }
+  "status": 200,
+  "data": {
+    "images": {
+      "blank": "https://fortnite-api.com/images/map.png",
+      "pois": "https://fortnite-api.com/images/map_en.png"
+    },
+    "pois": [
+      {
+        "id": "Athena.Location.UnNamedPOI.TrainStation.02",
+        "name": "Orchard Station",
+        "location": {
+          "x": -70368,
+          "y": -6528,
+          "z": 5220
         }
-      ]
-    }
+      },
+      {
+        "id": "Athena.Location.POI.NitroDome",
+        "name": "NITRODROME",
+        "location": {
+          "x": -41551.9994571328,
+          "y": -13839.9993061987,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.SocietyCemetery",
+        "name": "The Cemetery",
+        "location": {
+          "x": 57176.0004441828,
+          "y": 33784.0021540197,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.SummitTemple",
+        "name": "Summit Temple",
+        "location": {
+          "x": -30260.000415,
+          "y": 93544.001227,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.FuelDepot",
+        "name": "Megalo Depot",
+        "location": {
+          "x": -104407.999911477,
+          "y": -16304.0002490236,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.CharonsCrossing",
+        "name": "Charon's Crossing",
+        "location": {
+          "x": 17124,
+          "y": -85092,
+          "z": 5220
+        }
+      },
+      {
+        "id": "Athena.Location.POI.AbandonedMansion",
+        "name": "REBEL'S ROOST",
+        "location": {
+          "x": 88364,
+          "y": -59552,
+          "z": 3092
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.SecretLab",
+        "name": "Weapon X Lab",
+        "location": {
+          "x": -3696,
+          "y": 105900,
+          "z": 10864
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.ArchOlympus",
+        "name": "Pantheon Path",
+        "location": {
+          "x": -49516.0002532124,
+          "y": 31772.000607235,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.POI.DoomsCourtyard",
+        "name": "DOOM'S COURTYARD",
+        "location": {
+          "x": 93844.000543,
+          "y": 52464.000694,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.POI.RiverCapital",
+        "name": "RECKLESS RAILWAYS",
+        "location": {
+          "x": 20536,
+          "y": 44096,
+          "z": 112
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.GasStation.02",
+        "name": "Placid Pumps",
+        "location": {
+          "x": 6742.00677099384,
+          "y": 13315.1952988104,
+          "z": 5220
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.MountainRescue",
+        "name": "Rescue Station",
+        "location": {
+          "x": 46375.9998102379,
+          "y": 73168.0020529479,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.POI.Castle",
+        "name": "CASTLE DOOM",
+        "location": {
+          "x": 74508,
+          "y": 87560,
+          "z": 6652
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.IslandMansion",
+        "name": "No Moored Manor",
+        "location": {
+          "x": -84308,
+          "y": 17264,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.NorthTunnel",
+        "name": "Hazy Hillside Tunnel",
+        "location": {
+          "x": -35756,
+          "y": 37492,
+          "z": 5848
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.GasStation.01",
+        "name": "Primo Pumps",
+        "location": {
+          "x": -54804,
+          "y": -51948,
+          "z": 5220
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.ResearchStation",
+        "name": "Research Rock",
+        "location": {
+          "x": -93740,
+          "y": 88344,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.WaterMill",
+        "name": "The Ol' Mill",
+        "location": {
+          "x": 62551.5940120649,
+          "y": 14564.0833244474,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.TrainStation.03",
+        "name": "Grand Station",
+        "location": {
+          "x": 19124,
+          "y": 50668,
+          "z": 5220
+        }
+      },
+      {
+        "id": "Athena.Location.POI.CostalCity",
+        "name": "SANDY STEPPES",
+        "location": {
+          "x": -78214,
+          "y": -70796,
+          "z": 112
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.TrainStation.04",
+        "name": "Latverian Station",
+        "location": {
+          "x": 79376.8325479845,
+          "y": 33710.3259877956,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.CostalAirstrip",
+        "name": "Sandy Strip",
+        "location": {
+          "x": -60280,
+          "y": -107036,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.POI.Megalodon",
+        "name": "BRUTAL BEACHHEAD",
+        "location": {
+          "x": -105459.998877614,
+          "y": -47044.0004216037,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.POI.Stadt",
+        "name": "Doomstadt",
+        "location": {
+          "x": 67144,
+          "y": -14024,
+          "z": 112
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.YardDock",
+        "name": "Lil Dirty Dock",
+        "location": {
+          "x": -119632.00097406,
+          "y": 44559.9994856382,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.POI.AbandonedRuins",
+        "name": "RESTORED REELS",
+        "location": {
+          "x": -1892,
+          "y": -17236,
+          "z": 112
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.GasStation.03",
+        "name": "Piney Pumps",
+        "location": {
+          "x": 57140,
+          "y": -36760,
+          "z": 9428
+        }
+      },
+      {
+        "id": "Athena.Location.POI.NitroTown",
+        "name": "REDLINE RIG",
+        "location": {
+          "x": -103404,
+          "y": 17263.9997190718,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.CostalRuins",
+        "name": "Coastal Columns",
+        "location": {
+          "x": -21156,
+          "y": -105320,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.HeadStatue",
+        "name": "Doom's Watch",
+        "location": {
+          "x": 89876.00187,
+          "y": 52128.0027561908,
+          "z": 6497.34860359003
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.WindMill.01",
+        "name": "The Wreckmill",
+        "location": {
+          "x": -69676,
+          "y": -26968,
+          "z": 5220
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.Oasis.05",
+        "name": "The Dam Bridge",
+        "location": {
+          "x": -63395.998489,
+          "y": -40839.9993118869,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.WindMill.02",
+        "name": "The Other Windmill",
+        "location": {
+          "x": 35128,
+          "y": -38044,
+          "z": 5220
+        }
+      },
+      {
+        "id": "Athena.Location.POI.Greenhouse",
+        "name": "Shipwreck Shallows",
+        "location": {
+          "x": -10000.0000770039,
+          "y": 9788.00014919074,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.WoodedIsle",
+        "name": "Piney Lane",
+        "location": {
+          "x": 114357.662478018,
+          "y": -10051.9955579323,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.Jankyard",
+        "name": "Dumpenhausen",
+        "location": {
+          "x": -12131.9995679961,
+          "y": 62364.0014197748,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.FishFarm",
+        "name": "Catcher's Cove",
+        "location": {
+          "x": 113116.000422257,
+          "y": 39620.0032107296,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.TrainStation.01",
+        "name": "Snooty Station",
+        "location": {
+          "x": -61676,
+          "y": -67180,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.WinterIsland",
+        "name": "Winterburg",
+        "location": {
+          "x": 117724.000422,
+          "y": 18744.003211,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.PeaBoisHQ",
+        "name": "Pea Bois HQ",
+        "location": {
+          "x": -78152,
+          "y": -7844,
+          "z": 5220
+        }
+      },
+      {
+        "id": "Athena.Location.POI.Gate",
+        "name": "GRIM GATE",
+        "location": {
+          "x": 23608,
+          "y": -55336,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.POI.Hades",
+        "name": "THE UNDERWORLD",
+        "location": {
+          "x": 56712,
+          "y": -84900,
+          "z": 112
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.RaceCarFactory",
+        "name": "Ship it! Station",
+        "location": {
+          "x": -28088,
+          "y": -42764,
+          "z": 5220
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.RadioTower",
+        "location": {
+          "x": -80604,
+          "y": -24072,
+          "z": 5220
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.Glacier",
+        "name": "Zenith Wall",
+        "location": {
+          "x": 5154.67331168144,
+          "y": 82110.8795971286,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.POI.MountOlympus",
+        "name": "MOUNT OLYMPUS",
+        "location": {
+          "x": -61820,
+          "y": 69184.0002298948,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.Logo",
+        "name": "Fractured Four",
+        "location": {
+          "x": 49928.00187,
+          "y": -25591.997327,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.POI.Arena",
+        "name": "BRAWLER'S BATTLEGROUND",
+        "location": {
+          "x": -92351.9999646047,
+          "y": 59633.9995562331,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.RadioTower",
+        "name": "Coastal Comms",
+        "location": {
+          "x": 104211.999820746,
+          "y": 74100.0030455516,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.SummitCamp",
+        "name": "Summit Base Camp",
+        "location": {
+          "x": -18320.0002274572,
+          "y": 96240.0012905792,
+          "z": 6888
+        }
+      },
+      {
+        "id": "Athena.Location.POI.Raft",
+        "name": "THE RAFT",
+        "location": {
+          "x": -6890,
+          "y": -75716,
+          "z": 112
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.TrainStation.05",
+        "name": "Estate Station",
+        "location": {
+          "x": 48058.4080622079,
+          "y": -15.6142339404596,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.WindTurbines",
+        "name": "Breezy Coast",
+        "location": {
+          "x": 69343.999853,
+          "y": 119908.002665,
+          "z": 4756
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.AbandonedVilla",
+        "name": "Reclaimed Villa",
+        "location": {
+          "x": -49592,
+          "y": -98936,
+          "z": 2584
+        }
+      },
+      {
+        "id": "Athena.Location.POI.GrandGlacierHotel",
+        "name": "GRAND GLACIER",
+        "location": {
+          "x": 27536,
+          "y": 99132,
+          "z": 112
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.TrainStation.06",
+        "name": "Underworld Station",
+        "location": {
+          "x": 45540,
+          "y": -57416,
+          "z": 5220
+        }
+      },
+      {
+        "id": "Athena.Location.UnNamedPOI.RockMansion",
+        "name": "Cloistered Castle",
+        "location": {
+          "x": 101336.00094162,
+          "y": 8788.00302417996,
+          "z": 4756
+        }
+      }
+    ]
   }
+}
